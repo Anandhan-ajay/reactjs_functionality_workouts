@@ -1,0 +1,57 @@
+[
+    {
+      "id" : 1,
+      "question": "What is the capital of France?",
+      "options": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "id" : 2,
+      "question": "Which programming language is primarily used for web development?",
+      "options": [
+        "Python",
+        "C++",
+        "JavaScript",
+        "Kotlin"
+      ],
+      "answer": "JavaScript"
+    },
+    {
+      "id" : 3,
+      "question": "What is the smallest planet in our solar system?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Earth"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "id" : 4,
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Mark Twain",
+        "J.K. Rowling",
+        "Ernest Hemingway"
+      ],
+      "answer": "Harper Lee"
+    },
+    {
+      "id" : 5,
+      "question": "What is the boiling point of water at sea level?",
+      "options": [
+        "90°C",
+        "100°C",
+        "120°C",
+        "150°C"
+      ],
+      "answer": "100°C"
+    }
+  ]

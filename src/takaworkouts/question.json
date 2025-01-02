@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Red Dress",
+      "description": "A stylish red dress for any occasion.",
+      "price": 49.99,
+      "image": "https://img.freepik.com/free-photo/young-stylish-beautiful-woman-blue-dress-summer-fashion-trend-vacation-garden-tropical-hotel-terrace-smiling_285396-3854.jpg?t=st=1733746542~exp=1733750142~hmac=aeac567c145a6ea49b1d9968ca3b3c3dcf253a462f4ee70f5ecbf6dea4dab343&w=996"
+    },
+    {
+      "id": 2,
+      "name": "Blue Jacket",
+      "description": "A cool blue jacket to keep you warm.",
+      "price": 79.99,
+      "image": "https://img.freepik.com/premium-photo/gorgeous-brunette-woman-fashion-classic-dress-apple-garden_149155-1654.jpg?w=1060"
+    },
+    {
+      "id": 3,
+      "name": "Louis Philippe",
+      "description": "Long coat-like tunic, usually made of luxurious fabrics.",
+      "price": 86.69,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul59uFhXZyDXb3OiUm3AtQLogyyB91IuyhQ&s"
+    },
+    {
+      "id": 4,
+      "name": "ColorFul synthetic",
+      "description": "Stylish wall, shot with cotton.",
+      "price": 70.69,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITgt7uvdE4iuVlpMh5ygzpr6NVeVY9HFYeF2hxN6weAP8UnzgFy2gtEk&s"
+    },
+    {
+      "id": 5,
+      "name": "Fabric curts and jeans",
+      "description": "Blue wall, jean with long-fit.",
+      "price": 40.69,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiM9hPL36PZKNQ5iCBfdfKFLoOhMem2aYf7A&s"
+    },
+    {
+      "id": 6,
+      "name": "Peter England Elite",
+      "description": "Men Printed Bandhgala Slim-Fit .",
+      "price": 106.69,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMtEO-7E7suS4BM9AU7KfY2JlLDysStK-hw&s"
+    }
+  ]
+  

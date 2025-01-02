@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Supreme",
+        "amt": "349",
+        "shop": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/90.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 3,
+        "name": "Veggie Delight",
+        "amt": "249",
+        "shop": "Salad",
+        "pic": "https://www.app.tutorjoes.in/img/food/91.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 4,
+        "name": "Grilled Sandwich",
+        "amt": "199",
+        "shop": "Cafe",
+        "pic": "https://www.app.tutorjoes.in/img/food/92.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 5,
+        "name": "Chocolate Shake",
+        "amt": "149",
+        "shop": "Desserts",
+        "pic": "https://www.app.tutorjoes.in/img/food/93.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 6,
+        "name": "Margarita Pizza",
+        "amt": "399",
+        "shop": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/94.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 7,
+        "name": "Chicken Burger",
+        "amt": "299",
+        "shop": "Fast Food",
+        "pic": "https://www.app.tutorjoes.in/img/food/95.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 8,
+        "name": "Pasta Alfredo",
+        "amt": "249",
+        "shop": "Italian",
+        "pic": "https://www.app.tutorjoes.in/img/food/96.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 9,
+        "name": "Tacos",
+        "amt": "199",
+        "shop": "Mexican",
+        "pic": "https://www.app.tutorjoes.in/img/food/97.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 10,
+        "name": "Caesar Salad",
+        "amt": "149",
+        "shop": "Salad",
+        "pic": "https://www.app.tutorjoes.in/img/food/98.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 11,
+        "name": "Paneer Tikka",
+        "amt": "299",
+        "shop": "Indian",
+        "pic": "https://www.app.tutorjoes.in/img/food/99.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 12,
+        "name": "Fish and Chips",
+        "amt": "349",
+        "shop": "Seafood",
+        "pic": "https://www.app.tutorjoes.in/img/food/100.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 13,
+        "name": "Veg Wrap",
+        "amt": "199",
+        "shop": "Fast Food",
+        "pic": "https://www.app.tutorjoes.in/img/food/101.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 14,
+        "name": "Falooda",
+        "amt": "129",
+        "shop": "Desserts",
+        "pic": "https://www.app.tutorjoes.in/img/food/102.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 15,
+        "name": "Mango Smoothie",
+        "amt": "99",
+        "shop": "Beverages",
+        "pic": "https://www.app.tutorjoes.in/img/food/103.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 16,
+        "name": "French Fries",
+        "amt": "149",
+        "shop": "Fast Food",
+        "pic": "https://www.app.tutorjoes.in/img/food/104.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 17,
+        "name": "Brownie",
+        "amt": "199",
+        "shop": "Desserts",
+        "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 18,
+        "name": "Garlic Bread",
+        "amt": "149",
+        "shop": "Italian",
+        "pic": "https://www.app.tutorjoes.in/img/food/106.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 19,
+        "name": "Chicken Wings",
+        "amt": "299",
+        "shop": "Fast Food",
+        "pic": "https://www.app.tutorjoes.in/img/food/107.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 20,
+        "name": "Green Tea",
+        "amt": "49",
+        "shop": "Beverages",
+        "pic": "https://www.app.tutorjoes.in/img/food/108.jpg",
+        "latest": "Yes"
+    }
+]

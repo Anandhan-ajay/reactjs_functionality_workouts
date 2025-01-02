@@ -1,0 +1,30 @@
+/* App.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .board-holder {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 5px;
+    margin: 20px auto;
+    width: fit-content;
+  }
+  
+  .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .board-value {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  

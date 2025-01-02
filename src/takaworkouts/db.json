@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Red Dress",
+        "description": "A stylish red dress for any occasion.",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "name": "Blue Jacket",
+        "description": "A cool blue jacket to keep you warm.",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
