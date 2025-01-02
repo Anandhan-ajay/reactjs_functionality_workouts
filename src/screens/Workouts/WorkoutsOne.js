@@ -27,7 +27,7 @@ function WorkoutsOne() {
   console.log(usersData);
   return (
     <div>
-      <h1>UsersData</h1>
+      <h1>This is my technical round task</h1>
 
       <label>Search users data : </label>
       <input type='text' value={searchUserData} onChange={(e) => setSearchUserData(e.target.value)}/>
